@@ -12,6 +12,6 @@ export default function HomeScreen () {
 }
 const style = StyleSheet.create({
     screenWrapper: {
-        backgroundColor: 'white',
+        backgroundColor: 'red',
     }
 });
