@@ -38,11 +38,11 @@ const styles = StyleSheet.create({
     width: "85%",
   },
   heading: {
-    textAlign: 'center',
+    textAlign: "center",
     fontSize: 25,
-    fontWeight: 'bold',
-    color: '#086e5a',
-    paddingBottom: 10
+    fontWeight: "bold",
+    color: "#086e5a",
+    paddingBottom: 10,
   },
   lables: {
     fontSize: 18,
@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
   login: {
     fontSize: 15,
     paddingTop: 6,
-    textAlign: 'center'
+    textAlign: "center",
   },
   underline: {
     fontWeight: 500,
